@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Daydream';
+    src: url('Daydream.ttf') format('truetype');
+}
+
+.disseny-web {
+    background-color: #f2b5d4;
+    padding: 20px;
+}
+
+.client {
+    background-color: #bcdace;
+    padding: 20px;
+}
+
+.servidor {
+    background-color: #85ffc7;
+    padding: 20px;
+}
+
+.desplegament {
+    background-color: #96c5f7;
+    padding: 20px;
+}
+
+.projecte {
+    background-color: #a9d3ff;
+    padding: 20px;
+}
+
+.tutoria {
+    background-color: #fcd29f;
+    padding: 20px;
+}
+
+.horari {
+    font-family: 'Daydream' 20px;
+}

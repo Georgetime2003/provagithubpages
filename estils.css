@@ -8,32 +8,43 @@
     src: url('fonts/Batuphat Script.otf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Joynoted Demo';
+    src: url('fonts/Joynoted Demo.ttf') format('truetype');
+}
+
 .disseny-web {
+    font-family: 'Joynoted Demo';
     background-color: #f2b5d4;
     padding: 20px;
 }
 
 .client {
+    font-family: 'Joynoted Demo';
     background-color: #bcdace;
     padding: 20px;
 }
 
 .servidor {
+    font-family: 'Joynoted Demo';
     background-color: #85ffc7;
     padding: 20px;
 }
 
 .desplegament {
+    font-family: 'Joynoted Demo';
     background-color: #96c5f7;
     padding: 20px;
 }
 
 .projecte {
+    font-family: 'Joynoted Demo';
     background-color: #a9d3ff;
     padding: 20px;
 }
 
 .tutoria {
+    font-family: 'Joynoted Demo';
     background-color: #fcd29f;
     padding: 20px;
 }

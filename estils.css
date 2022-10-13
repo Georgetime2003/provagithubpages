@@ -3,6 +3,11 @@
     src: url('fonts/Daydream.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Batuphat Script';
+    src: url('fonts/Batuphat Script.ttf') format('truetype');
+}
+
 .disseny-web {
     background-color: #f2b5d4;
     padding: 20px;
@@ -36,4 +41,9 @@
 .horari {
     font-family: 'Daydream';
     font-size: 135%;
+}
+
+.hores {
+    font-family: 'Batuphat Script';
+    font-size: 120%;
 }
